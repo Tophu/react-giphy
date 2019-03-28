@@ -28,3 +28,9 @@ To build and deploy your app to `gh-pages` branch on the GitHub repo:
 ```bash
 yarn deploy
 ```
+
+Click on the link below to view the page built with React
+
+```bash
+https://tophu.github.io/react-giphy/
+```
