@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import giphy from 'giphy-api';
 import SearchBar from './search_bar.jsx';
